@@ -1,0 +1,12 @@
+data/
+log/
+*.log
+*.npz
+*.csv
+*.tsv
+*.pkl
+*.memmap
+*.keras
+*.pid
+*.json
+*.npy
